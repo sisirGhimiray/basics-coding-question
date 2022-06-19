@@ -6,6 +6,8 @@ void encrypt(char *str)
 {
 for(;*str!='\0';str++)
 {
+  if(*str<97||*str>122)
+    continue;
 if(*str=='z'){
   *str='a';
 }else{
@@ -16,6 +18,8 @@ if(*str=='z'){
 
 void decrypt(char *str){
   for(;*str!='\0';str++){
+    if(*str<97||*str>122)
+    continue;
     if(*str=='a'){
       *str='z';
     }else{
