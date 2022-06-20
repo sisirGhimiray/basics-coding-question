@@ -15,13 +15,13 @@ while(d>0){
   numStor[i]=ld;
   i++;
 }
-if(i>=3 &&numStor[3]!=0){
+if(i>=4 &&numStor[3]!=0){
   printf("%s thousand ",ones[numStor[3]]);
 }
-if(i>=2&&numStor[2]!=0){
+if(i>=3&&numStor[2]!=0){
   printf("%s hundred ",ones[numStor[2]]);
 }
-if(i>=1){
+if(i>=2){
 if(numStor[1]>1&&numStor[0]!=0)
 {
   printf(" %s %s\n",tens[numStor[1]],ones[numStor[0]]);
@@ -33,6 +33,9 @@ printf(" %s ",tens[numStor[1]]);
 else{
   printf("%s",ones[numStor[0]]);
 }
+}
+if(i==1){
+  printf("%s\n",ones[numStor[0]]);
 }
 if(num==0){
   printf("Zero\n");
