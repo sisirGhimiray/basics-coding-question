@@ -8,3 +8,9 @@ m n k g h d t a b w v u p r q c z j x i e y f l o s <br>
 
 
 **02** .Write a program to enter a positive 4 digit number and display it in words.
+
+
+**03** . Write a recursive functions for finding length of a string and displaying the string in front and reverse order.
+*A string can be defined recursively as-*
+**1** A string may be an empty string.
+**2** A string may be a character followed by a smaller string(one character less).
