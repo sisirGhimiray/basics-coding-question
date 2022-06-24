@@ -12,5 +12,8 @@ m n k g h d t a b w v u p r q c z j x i e y f l o s <br>
 
 **03** . Write a recursive functions for finding length of a string and displaying the string in front and reverse order. <br>
 *A string can be defined recursively as-* <br>
-**1**. A string may be an empty string.<br>
-**2**. A string may be a character followed by a smaller string(one character less).<br>
+**i**. A string may be an empty string.<br>
+**ii**. A string may be a character followed by a smaller string(one character less).<br>
+
+
+**04** Write a function to convert a string into upperCase. <br>
