@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<string.h>
+
 
 void makeUpperCase(char *str){
 int i=0,j=0;

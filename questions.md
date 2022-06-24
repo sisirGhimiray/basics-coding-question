@@ -17,3 +17,5 @@ m n k g h d t a b w v u p r q c z j x i e y f l o s <br>
 
 
 **04** Write a function to convert a string into upperCase. <br>
+
+**05** Write a function for performing case insensitive string comparision. <br>
