@@ -24,3 +24,10 @@ m n k g h d t a b w v u p r q c z j x i e y f l o s <br>
         entered at the end but retains it. What should we do if we don't want the newLine character in the
         string. <br>
 
+**07** Write a function to remove all leading and trailing blanks. <br>
+
+**08** Input a string and change it so that the characters are placed in alphabetic order.
+for example the string "John smith" should be changed to "hhiJmnost" <br>
+
+**09** write a program to abbreviate input text. For example if the input is "World Heath Organisation"
+then the output should be WHO. <br>
