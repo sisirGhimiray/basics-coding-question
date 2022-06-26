@@ -36,3 +36,5 @@ then the output should be WHO. <br>
 
 
 **11** Write a function to replace adjacent multiple spaces in a string by a single space. <br>
+
+**12** write your own pointer versions of the library functions strncpy(),strncmp(),strncat()
