@@ -31,3 +31,8 @@ for example the string "John smith" should be changed to "hhiJmnost" <br>
 
 **09** write a program to abbreviate input text. For example if the input is "World Heath Organisation"
 then the output should be WHO. <br>
+
+**10** Write a function to to  extract a substring from a string. Assume that the substring starts at the ith character(start counting from 0th character) and is n character long. <br>
+
+
+**11** Write a function to replace adjacent multiple spaces in a string by a single space. <br>
