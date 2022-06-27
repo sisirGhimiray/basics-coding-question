@@ -37,4 +37,8 @@ then the output should be WHO. <br>
 
 **11** Write a function to replace adjacent multiple spaces in a string by a single space. <br>
 
-**12** write your own pointer versions of the library functions strncpy(),strncmp(),strncat()
+**12** write your own pointer versions of the library functions strncpy(),strncmp(),strncat().
+
+**13** write a function strstr_r() which takes two string as arguments and returns a pointer to the beginning of the last occurrence of the second string in the first string. <br>
+
+
