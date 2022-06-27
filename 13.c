@@ -18,6 +18,8 @@ char *s=checkChar(str1,str2);
  while(s!=NULL){
   if(s){
     prev=s;
+  }else{
+    return s;
   }
   s=checkChar(s+1,str2);
   if(s==NULL){
@@ -33,7 +35,7 @@ char *s=checkChar(str1,str2);
 int main(void){
 
 // a b c d g f c d  // a b v g h i y u
-char str[50]="sisr ghimiray";
+char str[50]="ssr ghmrai";
 char str2[60]="isr ghimray";
 
 
