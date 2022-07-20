@@ -2,7 +2,7 @@
 #include<string.h>
 
 void delMultipleSpace(char *str1){
-int len=strlen(str1),i=0,j=0;
+int i=0,j=0;
 while(str1[i]!='\0'){
   if(str1[i]==32&&str1[i+1]==32){
     i++;

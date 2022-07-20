@@ -44,3 +44,9 @@ then the output should be WHO. <br>
 
 **14** Write a function find_indexf() which takes two strings as arguments and returns index of first
         occurence of the second string in the first string.
+**15** write a function str_start() which takes two strings as arguments and return 1 if second string
+        is present at the start of first string, otherwise return 0. write another function str_end() 
+        that returns 1 if second string is present at the end of the first string otherwise return 0.<br>
+**16** write a program to replace all occurences of word "Bangalore" by "Bengaluru" in a string.
+
+**17** write a program to find the number of occurences of a particular word in substring.
